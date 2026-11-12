@@ -4,8 +4,8 @@ GKD 订阅模板, 此仓库方便您直接构建自己订阅, 点击右上角 [U
 
 ## 配置环境
 订阅链接
-https://raw.githubusercontent.com/whmax03/gkd-hwh/main/dist/gkd.json5
-https://fastly.jsdelivr.net/gh/whmax03/gkd-hwh@main/dist/gkd.json5
+- https://raw.githubusercontent.com/whmax03/gkd-hwh/main/dist/gkd.json5
+- https://fastly.jsdelivr.net/gh/whmax03/gkd-hwh@main/dist/gkd.json5
 
 请安装最新版 nodejs 和 pnpm 运行, 以及使用 vscode 打开项目
 
