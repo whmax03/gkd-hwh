@@ -18,7 +18,7 @@ apps.forEach((appConfig) => {
 export default defineGkdSubscription({
   id: 997821,
   name: '997321',
-  version: 0.0.1,
+  version: '0.0.1',
   author: 'AIsouler',
   checkUpdateUrl: './AIsouler_gkd.version.json5',
   supportUri: 'https://github.com/AIsouler/GKD_subscription/issues/new/choose',
